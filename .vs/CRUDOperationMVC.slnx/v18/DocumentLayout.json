@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B484C3C1-3E1D-432C-AEAE-B1EEB0ED6CC4}|CRUDOperationMVC\\CRUDOperationMVC.csproj|e:\\gitprojects\\__github\\crudoperationmvc\\crudoperationmvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B484C3C1-3E1D-432C-AEAE-B1EEB0ED6CC4}|CRUDOperationMVC\\CRUDOperationMVC.csproj|solutionrelative:crudoperationmvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C80A937F-C0F7-9812-4051-4A82255C5683}|CRUDOperationMVC\\CRUDOperationMVC.csproj|e:\\gitprojects\\__github\\crudoperationmvc\\crudoperationmvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C80A937F-C0F7-9812-4051-4A82255C5683}|CRUDOperationMVC\\CRUDOperationMVC.csproj|solutionrelative:crudoperationmvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B484C3C1-3E1D-432C-AEAE-B1EEB0ED6CC4}|CRUDOperationMVC\\CRUDOperationMVC.csproj|e:\\gitprojects\\__github\\crudoperationmvc\\crudoperationmvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B484C3C1-3E1D-432C-AEAE-B1EEB0ED6CC4}|CRUDOperationMVC\\CRUDOperationMVC.csproj|solutionrelative:crudoperationmvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C80A937F-C0F7-9812-4051-4A82255C5683}|CRUDOperationMVC\\CRUDOperationMVC.csproj|e:\\gitprojects\\__github\\crudoperationmvc\\crudoperationmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80A937F-C0F7-9812-4051-4A82255C5683}|CRUDOperationMVC\\CRUDOperationMVC.csproj|solutionrelative:crudoperationmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B484C3C1-3E1D-432C-AEAE-B1EEB0ED6CC4}|CRUDOperationMVC\\CRUDOperationMVC.csproj|e:\\gitprojects\\__github\\crudoperationmvc\\crudoperationmvc\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B484C3C1-3E1D-432C-AEAE-B1EEB0ED6CC4}|CRUDOperationMVC\\CRUDOperationMVC.csproj|solutionrelative:crudoperationmvc\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C80A937F-C0F7-9812-4051-4A82255C5683}|CRUDOperationMVC\\CRUDOperationMVC.csproj|e:\\gitprojects\\__github\\crudoperationmvc\\crudoperationmvc\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C80A937F-C0F7-9812-4051-4A82255C5683}|CRUDOperationMVC\\CRUDOperationMVC.csproj|solutionrelative:crudoperationmvc\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B484C3C1-3E1D-432C-AEAE-B1EEB0ED6CC4}|CRUDOperationMVC\\CRUDOperationMVC.csproj|e:\\gitprojects\\__github\\crudoperationmvc\\crudoperationmvc\\models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B484C3C1-3E1D-432C-AEAE-B1EEB0ED6CC4}|CRUDOperationMVC\\CRUDOperationMVC.csproj|solutionrelative:crudoperationmvc\\models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C80A937F-C0F7-9812-4051-4A82255C5683}|CRUDOperationMVC\\CRUDOperationMVC.csproj|e:\\gitprojects\\__github\\crudoperationmvc\\crudoperationmvc\\dtos\\student\\createstudentfromdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80A937F-C0F7-9812-4051-4A82255C5683}|CRUDOperationMVC\\CRUDOperationMVC.csproj|solutionrelative:crudoperationmvc\\dtos\\student\\createstudentfromdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80A937F-C0F7-9812-4051-4A82255C5683}|CRUDOperationMVC\\CRUDOperationMVC.csproj|e:\\gitprojects\\__github\\crudoperationmvc\\crudoperationmvc\\dtos\\student\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80A937F-C0F7-9812-4051-4A82255C5683}|CRUDOperationMVC\\CRUDOperationMVC.csproj|solutionrelative:crudoperationmvc\\dtos\\student\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\Views\\Student\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CRUDOperationMVC\\Views\\Student\\Edit.cshtml",
-              "ToolTip": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\Views\\Student\\Edit.cshtml",
-              "RelativeToolTip": "CRUDOperationMVC\\Views\\Student\\Edit.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAACwAAABDAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDOperationMVC\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "CRUDOperationMVC\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-09T03:55:28.242Z",
+              "WhenOpened": "2026-04-15T00:07:04.951Z",
               "EditorCaption": ""
             },
             {
@@ -49,35 +53,48 @@
               "RelativeDocumentMoniker": "CRUDOperationMVC\\Views\\Student\\Add.cshtml",
               "ToolTip": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\Views\\Student\\Add.cshtml",
               "RelativeToolTip": "CRUDOperationMVC\\Views\\Student\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-09T02:21:30.697Z",
+              "WhenOpened": "2026-04-14T17:54:11.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CRUDOperationMVC\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CRUDOperationMVC\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T17:51:15.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "StudentViewModel.cs",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\Models\\StudentViewModel.cs",
-              "RelativeDocumentMoniker": "CRUDOperationMVC\\Models\\StudentViewModel.cs",
-              "ToolTip": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\Models\\StudentViewModel.cs",
-              "RelativeToolTip": "CRUDOperationMVC\\Models\\StudentViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Title": "CreateStudentFromDto.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\DTOs\\Student\\CreateStudentFromDto.cs",
+              "RelativeDocumentMoniker": "CRUDOperationMVC\\DTOs\\Student\\CreateStudentFromDto.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\DTOs\\Student\\CreateStudentFromDto.cs",
+              "RelativeToolTip": "CRUDOperationMVC\\DTOs\\Student\\CreateStudentFromDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T02:14:11.666Z",
+              "WhenOpened": "2026-04-14T17:46:46.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "CRUDOperationMVC\\Views\\Student\\Index.cshtml",
-              "ToolTip": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "CRUDOperationMVC\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-09T01:35:53.045Z",
+              "DocumentIndex": 4,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\DTOs\\Student\\StudentDto.cs",
+              "RelativeDocumentMoniker": "CRUDOperationMVC\\DTOs\\Student\\StudentDto.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\CRUDOperationMVC\\CRUDOperationMVC\\DTOs\\Student\\StudentDto.cs",
+              "RelativeToolTip": "CRUDOperationMVC\\DTOs\\Student\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T17:45:48.231Z",
               "EditorCaption": ""
             }
           ]

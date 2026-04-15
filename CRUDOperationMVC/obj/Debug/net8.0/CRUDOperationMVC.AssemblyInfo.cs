@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDOperationMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bec3f735eacb3f2c0532862ec801c5be1c46cc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDOperationMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDOperationMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

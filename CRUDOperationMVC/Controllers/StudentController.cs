@@ -1,10 +1,10 @@
 ﻿using CRUDOperationMVC.Data;
 using CRUDOperationMVC.Entities;
 using CRUDOperationMVC.Models;
+using CRUDOperationMVC.DTOs.Student;
+using CRUDOperationMVC.Mappers;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Runtime.CompilerServices;
-using System.Runtime.InteropServices;
 
 namespace CRUDOperationMVC.Controllers
 {
@@ -19,7 +19,9 @@ namespace CRUDOperationMVC.Controllers
 
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Students.ToListAsync());
+            return View(await _context.Students
+                .Select(s=>s.ToStudentDto())
+                .ToListAsync());
         }
 
         [HttpGet]
@@ -28,24 +30,39 @@ namespace CRUDOperationMVC.Controllers
             return View();
         }
 
+        //[HttpPost]
+        //[ValidateAntiForgeryToken]
+        //public async Task<IActionResult> Add([Bind("Id,Name,Email,Phone,Address")] StudentViewModel student)
+        //{
+        //    if (ModelState.IsValid)
+        //    {
+        //        Student newStudent = new Student
+        //        {
+        //            Name = student.Name,
+        //            Email = student.Email,
+        //            Phone = student.Phone,
+        //            Address = student.Address
+        //        };
+        //        _context.Students.Add(newStudent);
+        //        await _context.SaveChangesAsync();
+        //        return RedirectToAction(nameof(Index));
+        //    }
+        //    return View(student);
+        //}
+
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Add([Bind("Id,Name,Email,Phone,Address")] StudentViewModel student)
+        public async Task<IActionResult> Add(CreateStudentFromDto studentDto)
         {
             if (ModelState.IsValid)
             {
-                Student newStudent = new Student
-                {
-                    Name = student.Name,
-                    Email = student.Email,
-                    Phone = student.Phone,
-                    Address = student.Address
-                };
+                Student newStudent = studentDto.ToStudent();
+
                 _context.Students.Add(newStudent);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(student);
+            return View(studentDto);
         }
 
         [HttpGet]
